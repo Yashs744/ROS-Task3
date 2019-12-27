@@ -1,0 +1,8 @@
+prefix=/home/yash/ROS Task3/AD-simulator/ros/catkin_ws/install
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yash/ROS Task3/AD-simulator/ros/catkin_ws/install/lib 
+Requires: 

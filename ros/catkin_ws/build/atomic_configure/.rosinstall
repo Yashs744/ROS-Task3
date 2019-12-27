@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yash/ROS Task3/AD-simulator/ros/catkin_ws/devel/setup.sh
